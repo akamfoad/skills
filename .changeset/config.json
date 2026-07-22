@@ -1,5 +1,5 @@
 {
-  "$schema": "@changesets/config/schema.json",
+  "$schema": "../node_modules/@changesets/config/schema.json",
   "changelog": [
     "@changesets/changelog-github",
     { "repo": "akamfoad/skills" }
