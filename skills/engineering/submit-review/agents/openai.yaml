@@ -1,0 +1,5 @@
+interface:
+  display_name: "Submit Review"
+  short_description: "Publish an in-session review to a GitHub PR"
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,21 @@
+{
+  "name": "akamfoad",
+  "owner": {
+    "name": "akamfoad",
+    "url": "https://akamfoad.dev"
+  },
+  "description": "akamfoad's agent skills, as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "akamfoad-skills",
+      "source": "./",
+      "description": "A personal collection of agent skills.",
+      "category": "engineering",
+      "keywords": [
+        "skills",
+        "code-review",
+        "github"
+      ]
+    }
+  ]
+}

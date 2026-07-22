@@ -1,0 +1,20 @@
+{
+  "name": "akamfoad-skills",
+  "version": "0.1.0",
+  "description": "A personal collection of agent skills.",
+  "author": {
+    "name": "akamfoad",
+    "url": "https://akamfoad.dev"
+  },
+  "homepage": "https://github.com/akamfoad/skills",
+  "repository": "https://github.com/akamfoad/skills",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "code-review",
+    "github"
+  ],
+  "skills": [
+    "./skills/engineering/submit-review"
+  ]
+}

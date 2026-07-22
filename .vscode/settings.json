@@ -1,0 +1,5 @@
+{
+  "editor.defaultFormatter": "oxc.oxc-vscode",
+  "json.schemaDownload.enable": true,
+  "json.schemas": []
+}
