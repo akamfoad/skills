@@ -1,0 +1,5 @@
+interface:
+  display_name: "NestJS Preflight"
+  short_description: "Go/no-go check of a NestJS app before deploy"
+policy:
+  allow_implicit_invocation: false
