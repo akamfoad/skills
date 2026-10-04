@@ -41,10 +41,11 @@ Or, inside Claude Code:
 **User-invoked**
 
 - **[submit-review](./skills/engineering/submit-review/SKILL.md)** — Publish an in-session code review to a GitHub PR as staged (pending) inline comments, or as replies to existing review threads. Terse by default; verbosity set by the argument.
+- **[nestjs-preflight](./skills/engineering/nestjs-preflight/SKILL.md)** — Go/no-go preflight of a NestJS app or module before a deploy to dev, stage, or prod. 17 checks from the NestJS production checklist.
 
 ## Development
 
-Skills live under `skills/<bucket>/<name>/SKILL.md`. `engineering/` and `productivity/` are **promoted** — they ship via the plugin and are listed above; `misc/`, `personal/`, `in-progress/`, and `deprecated/` are staging buckets that don't. Full conventions are in [CLAUDE.md](./CLAUDE.md).
+Skills live under `skills/<bucket>/<name>/SKILL.md`. `engineering/` and `productivity/` are **promoted** — they ship via the plugin and are listed above; `misc/`, `personal/`, `in-progress/`, and `deprecated/` are staging buckets that don't. Full conventions are in [CLAUDE.md](./.claude/CLAUDE.md).
 
 Link every skill into your local harness directories for development:
 
