@@ -1,5 +1,11 @@
 # akamfoad-skills
 
+## 0.1.1
+
+### Patch Changes
+
+- [`db1de33`](https://github.com/akamfoad/skills/commit/db1de3339ec06ae630bf11d82bd2a731a7484874) Thanks [@akamfoad](https://github.com/akamfoad)! - Promote nestjs-preflight skill to engineering
+
 ## 0.1.0
 
 ### Minor Changes
