@@ -12,9 +12,11 @@
   "keywords": [
     "skills",
     "code-review",
-    "github"
+    "github",
+    "nestjs"
   ],
   "skills": [
-    "./skills/engineering/submit-review"
+    "./skills/engineering/submit-review",
+    "./skills/engineering/nestjs-preflight"
   ]
 }
